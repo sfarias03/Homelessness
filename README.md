@@ -9,3 +9,5 @@ In preparing our data, we undertook several essential steps. Firstly, we provide
 My data preparation notebook is titled: SF -  Homelessness Data Preparation.
 
 My data analysis notebook is titled: SF -  Homelessness Analysis.
+
+My analysis communcation is titled: Homelessness Analysis Communication
