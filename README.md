@@ -11,3 +11,5 @@ My data preparation notebook is titled: SF -  Homelessness Data Preparation.
 My data analysis notebook is titled: SF -  Homelessness Analysis.
 
 My analysis communcation is titled: Homelessness Analysis Communication
+
+Author: Sammuel (Sam) Farias. Seattle University. License: This work is licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
